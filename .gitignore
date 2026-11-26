@@ -1,0 +1,19 @@
+# local dumps, caches and logs
+dump/
+game/
+*.log
+*.rpf
+*.exe
+*.dll
+*.pdb
+
+# layer caches and data
+cache/
+cache-*/
+data/*.log
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
