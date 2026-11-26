@@ -1,0 +1,7 @@
+build,fork,console,switches,world_samples,frame_ms_median,frame_ms_min,frame_ms_max,fps_median,fps_mean,fps_max,worst_frame_ms,samples_ge_8fps,notes
+V4,d510ee4,series-x,14,76,210,35,1829,4.80,6.33,28.30,1829,5,baseline for the fork line
+V5,f6a09d3,series-x,14 reaper-default-off,205,235,37,1307,4.30,4.54,27.10,1307,,shader correctness release
+V6,f6a09d3,series-x,14 plus VICTORY_REAPER=1,46,211,36,1749,4.80,6.20,28.00,1749,5,reaper restores the median
+V7,f4b48ad,series-x,15,34,172,38,489,5.90,6.29,26.10,489,5,archive tree first run
+V8,f4b48ad,series-x,15,34,220,37,1323,5.80,6.11,27.10,1323,4,archive tree repeat of V7
+V9,f4b48ad,series-s,15,551,110,38,1190,9.10,9.02,26.70,1190,457,console profile change; reached Jason first mission
