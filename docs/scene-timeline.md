@@ -7,7 +7,7 @@ them. No links, no files, no keys.
 |---|---|
 | 11-10 | digital pre-load opens |
 | **11-19** | game releases on PS5 and Xbox Series X\|S; no PC version announced |
-| 11-21 | a ~209 GB Xbox Series build (version 1.0.2.1) appears by torrent, **without the executable** |
+| 11-21 | a ~209 GB Xbox Series build (version 1.0.2.1) appears publicly, **without the executable** |
 | 11-22 | the executable is promised for Monday 18:00 CET, with a paid poll attached |
 | **11-23 14:36 UTC** | the executable is released, about 2.5 h before that deadline |
 | 11-23 (same post) | a note posted alongside frames the release as a protest and asks for donations |
